@@ -40,7 +40,7 @@ This project was developed as part of my portfolio to demonstrate:
 ---
 
 ## 🚀 Live Demo
-🔗 https://react-estate-project.netlify.app/ 
+🔗[View Project] [https://react-estate-project.netlify.app/] 
 
 ---
 
