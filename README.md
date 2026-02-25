@@ -10,7 +10,7 @@ This project highlights elegant UI design, smooth animations, and responsive lay
 - Smooth animations powered by **Framer Motion**  
 - Integrated contact form using **Web3Forms**  
 - Minimal, professional, and modern user interface  
-- Optimized performance and clean component structure  
+- Optimized performance and clean component structure
 
 ---
 
