@@ -1,7 +1,7 @@
 # 🏡 Real Estate Landing Page
 
 A modern and visually appealing **Real Estate Landing Page** built using **React** and **Framer Motion**.  
-This project highlights elegant UI design, smooth animations, and responsive layouts — ideal for real estate agencies or as a front-end portfolio project.
+This project highlights elegant UI design, smooth animations, and responsive layouts — ideal for real estate agencies or as a front-end portfolio project..
 
 ---
 
